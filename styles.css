@@ -1,0 +1,171 @@
+.all_content{
+    font-family: 'Montserrat', sans-serif;
+    display:flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0px auto;
+}
+
+.main_block{
+    padding-left: 50px;
+    padding-right: 250px;
+    background-color:aliceblue;
+    color:#1E2939;
+}
+
+aside {
+    background-color: #1E2939;
+    color: #ffffff;
+    padding-top: 40px;
+    width: 370px;
+}
+
+.photo{
+    width: 370px;
+    padding-bottom: 50px;
+}
+
+.aside_block{
+    padding-left: 30px;
+}
+
+.aside_list{
+    padding-left: 15px;
+}
+
+.aside_list_unit , .main_list_unit{
+    margin-left: 0px;
+    padding-left: 0px;
+    color:#FB6D3A;
+}
+
+
+.aside_list_unit_text{
+    color:#ffffff;
+}
+
+.main_list_unit_text{
+    color:#1E2939;
+}
+
+.aside_list_unit_text , .main_list_unit_text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.aside_title{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+
+.contacts{
+    margin-bottom: 50px;
+}
+
+.contact_link{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 10px;
+
+    color: #8E949C;
+}
+
+.position{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 17px;
+    margin-bottom: 20px;
+}
+
+.name{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin-bottom: 25px;
+}
+
+.description{
+    font-weight: 450;
+    font-size: 14px;
+    line-height: 24px;
+    width: 400px;
+    margin-bottom: 15px;
+}
+
+.title{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+
+.text{
+    font-weight: 450;
+    font-size: 14px;
+    line-height: 24px;
+    width: 400px;
+    margin-bottom: 15px;
+
+}
+
+.list_unit{
+    margin-left: -25px;
+}
+
+.work_position{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+.company{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A; 
+}
+
+.date{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+
+.responsibility{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    width: 525px;
+    padding:15px;   
+    margin-bottom: 15px;
+}
+
+.education_title{
+    font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+color: #FB6D3A;
+margin-bottom: 10px;
+}
+
+.speciality{
+    font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+color: #000000;
+margin-bottom: 10px;
+}
